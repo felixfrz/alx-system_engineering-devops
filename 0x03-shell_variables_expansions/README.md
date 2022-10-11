@@ -17,4 +17,5 @@ This project helps in training on shell commands and variable expansions
 * 12-combinations: prints all the combinations from a-z except "oo"
 * 13-print_float: prints a number with 2 decimal points
 * 14-decimal_to_hexadecimal: converts a variable from decimal to hexadecimal
+* ===== Done =====
 
