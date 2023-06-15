@@ -2,11 +2,9 @@
 **0x1A. Application server**
 
 ## Author's Details.
-Name: *Wendy Munyasi.*
+Name: *Ayodeji Felix Oladoyin.*
 
-Email: *wendymunyasi@gmail.com*
-
-Tel:*+254707240068.*
+Email: *oladoyinayodeji@gmail.com*
 
 ##  Requirements
 
